@@ -1,0 +1,15 @@
+D:\備份\Desktop\蝦皮大家來找碴\蝦皮大家來找碴\bin\Debug\net6.0-windows\publish\蝦皮大家來找碴.exe
+D:\備份\Desktop\蝦皮大家來找碴\蝦皮大家來找碴\bin\Debug\net6.0-windows\publish\蝦皮大家來找碴.dll
+D:\備份\Desktop\蝦皮大家來找碴\蝦皮大家來找碴\bin\Debug\net6.0-windows\publish\蝦皮大家來找碴.deps.json
+D:\備份\Desktop\蝦皮大家來找碴\蝦皮大家來找碴\bin\Debug\net6.0-windows\publish\蝦皮大家來找碴.runtimeconfig.json
+D:\備份\Desktop\蝦皮大家來找碴\蝦皮大家來找碴\bin\Debug\net6.0-windows\publish\蝦皮大家來找碴.pdb
+D:\備份\Desktop\蝦皮大家來找碴\蝦皮大家來找碴\bin\Debug\net6.0-windows\publish\Microsoft.Win32.SystemEvents.dll
+D:\備份\Desktop\蝦皮大家來找碴\蝦皮大家來找碴\bin\Debug\net6.0-windows\publish\OpenCvSharp.dll
+D:\備份\Desktop\蝦皮大家來找碴\蝦皮大家來找碴\bin\Debug\net6.0-windows\publish\OpenCvSharp.Extensions.dll
+D:\備份\Desktop\蝦皮大家來找碴\蝦皮大家來找碴\bin\Debug\net6.0-windows\publish\System.Drawing.Common.dll
+D:\備份\Desktop\蝦皮大家來找碴\蝦皮大家來找碴\bin\Debug\net6.0-windows\publish\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\備份\Desktop\蝦皮大家來找碴\蝦皮大家來找碴\bin\Debug\net6.0-windows\publish\runtimes\win-x64\native\OpenCvSharpExtern.dll
+D:\備份\Desktop\蝦皮大家來找碴\蝦皮大家來找碴\bin\Debug\net6.0-windows\publish\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+D:\備份\Desktop\蝦皮大家來找碴\蝦皮大家來找碴\bin\Debug\net6.0-windows\publish\runtimes\win-x86\native\OpenCvSharpExtern.dll
+D:\備份\Desktop\蝦皮大家來找碴\蝦皮大家來找碴\bin\Debug\net6.0-windows\publish\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+D:\備份\Desktop\蝦皮大家來找碴\蝦皮大家來找碴\bin\Debug\net6.0-windows\publish\runtimes\win\lib\net6.0\System.Drawing.Common.dll
